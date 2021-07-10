@@ -1,0 +1,11 @@
+E:\Face2Face_Revit\Face2Face\bin\Debug\Face2Face.dll
+E:\Face2Face_Revit\Face2Face\bin\Debug\Face2Face.pdb
+E:\Face2Face_Revit\Face2Face\obj\Debug\Face2Face.csprojAssemblyReference.cache
+E:\Face2Face_Revit\Face2Face\obj\Debug\FaceConfig.g.cs
+E:\Face2Face_Revit\Face2Face\obj\Debug\Face2Face_MarkupCompile.cache
+E:\Face2Face_Revit\Face2Face\obj\Debug\Face2Face_MarkupCompile.lref
+E:\Face2Face_Revit\Face2Face\obj\Debug\FaceConfig.baml
+E:\Face2Face_Revit\Face2Face\obj\Debug\Face2Face.g.resources
+E:\Face2Face_Revit\Face2Face\obj\Debug\Face2Face.csproj.CoreCompileInputs.cache
+E:\Face2Face_Revit\Face2Face\obj\Debug\Face2Face.dll
+E:\Face2Face_Revit\Face2Face\obj\Debug\Face2Face.pdb
